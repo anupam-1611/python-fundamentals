@@ -10,3 +10,7 @@ print(cssv.split(","))
 #creates a list
 
 print("=" *20)
+
+# path = "C:\User" << this rasies unicode error
+path = "C:\\User"
+print(path)
