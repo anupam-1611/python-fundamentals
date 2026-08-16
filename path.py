@@ -1,0 +1,24 @@
+'''date = "2026/05/10"
+print(date.replace("/","-"))
+#replaces certain text to another
+
+first = "Anupam"; last = "Dutta"
+print(f"{first} {last}")
+
+cssv = "Anupam,22,India"
+print(cssv.split(","))
+#creates a list
+
+print("=" *20)
+
+# path = "C:\\User" << this rasies unicode error
+path = "C:\\User"
+print(path)
+'''
+
+var = "hello12345"
+
+print(var.isnumeric())
+
+varr = "hello"
+print(varr.isalpha())
